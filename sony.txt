@@ -14,3 +14,7 @@ I've fixed this
 
 this is nothing new
 
+function global()
+{
+
+}
